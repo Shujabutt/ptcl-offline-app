@@ -1,8 +1,7 @@
-# ptcl-offline-app
+# Rtcl-Router Offline App
 
-/////////////////////////////////////////////
-//PTCL login page offline App (Green Theme)//
-/////////////////////////////////////////////
+PTCL Router page offline App (Green Theme)
+
 
 ## Release Notes
 * Version 1.0
@@ -27,12 +26,12 @@
 * Problem with some Routers while opening * Advanced Setup>Certificate *
 
 ## 1st Time Usage
-* Just Download .zip file from github website and extract
+* Download .zip file from GitHub website and extract
 * Right Click index.html click *Create shortcut*
-* Rename shortcut and paste on desktop or where ever you want
+* Rename the shortcut and paste it on the desktop or wherever you want
 
 ## Usage Instructions
 * Before using Login to 192.168.10.1 and close tab
-* Then open index.html shortcut from desktop
+* Then open index.html shortcut from the desktop
 
- Contact me if needed.
+ Please feel free to contact me if needed.
